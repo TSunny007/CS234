@@ -1,0 +1,177 @@
+2020-01-03 19:18:15,096:WARNING: From q3_nature.py:73: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-01-03 19:18:15,109:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/.anaconda3/envs/gym/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-01-03 19:18:31,161:WARNING: From q3_nature.py:73: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-01-03 19:18:31,175:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/.anaconda3/envs/gym/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-01-03 19:18:31,450:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/.anaconda3/envs/gym/lib/python3.6/site-packages/tensorflow_core/python/ops/clip_ops.py:172: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-01-03 19:18:31,627:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-01-03 19:18:31,760:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-01-03 19:18:31,766:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-01-03 19:18:31,775:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:147: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-01-03 19:18:31,776:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:148: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2020-01-03 19:18:31,848:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:106: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2020-01-03 19:18:32,003:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:113: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2020-01-03 19:18:32,048:INFO: Evaluating...
+2020-01-03 19:18:32,697:INFO: Average reward: -0.50 +/- 0.00
+2020-01-03 19:18:33,458:INFO: Evaluating...
+2020-01-03 19:18:33,644:INFO: Average reward: -0.50 +/- 0.00
+2020-01-03 19:18:36,777:INFO: Evaluating...
+2020-01-03 19:18:37,019:INFO: Average reward: 0.50 +/- 0.00
+2020-01-03 19:18:39,578:INFO: Evaluating...
+2020-01-03 19:18:39,832:INFO: Average reward: 0.50 +/- 0.00
+2020-01-03 19:18:42,770:INFO: Evaluating...
+2020-01-03 19:18:42,982:INFO: Average reward: 0.50 +/- 0.00
+2020-01-03 19:18:45,976:INFO: Evaluating...
+2020-01-03 19:18:46,137:INFO: Average reward: 1.80 +/- 0.00
+2020-01-03 19:18:48,876:INFO: Evaluating...
+2020-01-03 19:18:49,128:INFO: Average reward: 4.10 +/- 0.00
+2020-01-03 19:18:52,073:INFO: Evaluating...
+2020-01-03 19:18:52,266:INFO: Average reward: 4.10 +/- 0.00
+2020-01-03 19:18:55,465:INFO: Evaluating...
+2020-01-03 19:18:55,644:INFO: Average reward: 4.10 +/- 0.00
+2020-01-03 19:18:57,474:INFO: - Training done.
+2020-01-03 19:18:57,721:INFO: Evaluating...
+2020-01-03 19:18:57,908:INFO: Average reward: 4.10 +/- 0.00
+2020-01-03 19:19:25,095:WARNING: From q3_nature.py:73: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-01-03 19:19:25,109:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/.anaconda3/envs/gym/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-01-03 19:19:25,349:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/.anaconda3/envs/gym/lib/python3.6/site-packages/tensorflow_core/python/ops/clip_ops.py:172: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-01-03 19:19:25,528:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-01-03 19:19:25,650:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-01-03 19:19:25,659:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-01-03 19:19:25,670:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:147: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-01-03 19:19:25,671:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:148: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2020-01-03 19:19:25,742:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:106: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2020-01-03 19:19:25,985:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:113: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2020-01-03 19:19:26,030:INFO: Evaluating...
+2020-01-03 19:19:26,513:INFO: Average reward: 0.00 +/- 0.00
+2020-01-03 19:19:27,694:INFO: Evaluating...
+2020-01-03 19:19:28,030:INFO: Average reward: 0.90 +/- 0.00
+2020-01-03 19:19:33,873:INFO: Evaluating...
+2020-01-03 19:19:34,141:INFO: Average reward: -0.60 +/- 0.00
+2020-01-03 19:19:39,872:INFO: Evaluating...
+2020-01-03 19:19:40,145:INFO: Average reward: 0.50 +/- 0.00
+2020-01-03 19:19:47,574:INFO: Evaluating...
+2020-01-03 19:19:47,966:INFO: Average reward: 0.50 +/- 0.00
+2020-01-03 19:19:53,879:INFO: Evaluating...
+2020-01-03 19:19:54,247:INFO: Average reward: 3.00 +/- 0.00
+2020-01-03 19:19:59,472:INFO: Evaluating...
+2020-01-03 19:19:59,774:INFO: Average reward: 3.00 +/- 0.00
+2020-01-03 19:20:04,582:INFO: Evaluating...
+2020-01-03 19:20:04,931:INFO: Average reward: 4.10 +/- 0.00
+2020-01-03 19:20:09,960:INFO: Evaluating...
+2020-01-03 19:20:10,241:INFO: Average reward: 4.10 +/- 0.00
+2020-01-03 19:20:13,067:INFO: - Training done.
+2020-01-03 19:20:13,314:INFO: Evaluating...
+2020-01-03 19:20:13,632:INFO: Average reward: 4.10 +/- 0.00
+2020-01-03 19:20:43,755:WARNING: From q3_nature.py:73: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-01-03 19:20:43,768:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/.anaconda3/envs/gym/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-01-03 19:20:44,013:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/.anaconda3/envs/gym/lib/python3.6/site-packages/tensorflow_core/python/ops/clip_ops.py:172: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-01-03 19:20:44,193:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-01-03 19:20:44,352:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-01-03 19:20:44,357:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-01-03 19:20:44,367:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:147: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-01-03 19:20:44,368:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:148: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2020-01-03 19:20:44,440:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:106: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2020-01-03 19:20:44,596:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:113: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2020-01-03 19:20:44,641:INFO: Evaluating...
+2020-01-03 19:20:44,928:INFO: Average reward: 0.50 +/- 0.00
+2020-01-03 19:20:45,572:INFO: Evaluating...
+2020-01-03 19:20:45,766:INFO: Average reward: -1.00 +/- 0.00
+2020-01-03 19:20:48,868:INFO: Evaluating...
+2020-01-03 19:20:49,064:INFO: Average reward: -0.50 +/- 0.00
+2020-01-03 19:20:51,578:INFO: Evaluating...
+2020-01-03 19:20:51,783:INFO: Average reward: 0.50 +/- 0.00
+2020-01-03 19:20:55,477:INFO: Evaluating...
+2020-01-03 19:20:55,728:INFO: Average reward: 0.50 +/- 0.00
+2020-01-03 19:20:59,777:INFO: Evaluating...
+2020-01-03 19:21:00,032:INFO: Average reward: 0.50 +/- 0.00
+2020-01-03 19:21:02,771:INFO: Evaluating...
+2020-01-03 19:21:02,956:INFO: Average reward: 0.50 +/- 0.00
+2020-01-03 19:21:06,066:INFO: Evaluating...
+2020-01-03 19:21:06,241:INFO: Average reward: 1.30 +/- 0.00
+2020-01-03 19:21:09,070:INFO: Evaluating...
+2020-01-03 19:21:09,304:INFO: Average reward: 2.10 +/- 0.00
+2020-01-03 19:21:10,775:INFO: - Training done.
+2020-01-03 19:21:11,010:INFO: Evaluating...
+2020-01-03 19:21:11,213:INFO: Average reward: 2.10 +/- 0.00
+2020-01-03 19:26:09,022:WARNING: From q3_nature.py:73: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-01-03 19:26:09,035:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/.anaconda3/envs/gym/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+2020-01-03 19:26:09,278:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/.anaconda3/envs/gym/lib/python3.6/site-packages/tensorflow_core/python/ops/clip_ops.py:172: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-01-03 19:26:09,459:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:100: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-01-03 19:26:09,590:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:121: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-01-03 19:26:09,596:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:132: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-01-03 19:26:09,606:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:147: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-01-03 19:26:09,607:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:148: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2020-01-03 19:26:09,689:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:106: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2020-01-03 19:26:09,847:WARNING: From /uufs/chpc.utah.edu/common/home/u0930101/git/CS234/assignments/assignment2/core/deep_q_learning.py:113: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2020-01-03 19:26:09,892:INFO: Evaluating...
+2020-01-03 19:26:10,186:INFO: Average reward: -0.50 +/- 0.00
+2020-01-03 19:26:10,871:INFO: Evaluating...
+2020-01-03 19:26:11,082:INFO: Average reward: -0.50 +/- 0.00
+2020-01-03 19:26:14,075:INFO: Evaluating...
+2020-01-03 19:26:14,321:INFO: Average reward: 0.50 +/- 0.00
+2020-01-03 19:26:16,775:INFO: Evaluating...
+2020-01-03 19:26:16,979:INFO: Average reward: 0.50 +/- 0.00
+2020-01-03 19:26:19,563:INFO: Evaluating...
+2020-01-03 19:26:19,754:INFO: Average reward: 3.00 +/- 0.00
+2020-01-03 19:26:22,259:INFO: Evaluating...
+2020-01-03 19:26:22,456:INFO: Average reward: 4.00 +/- 0.00
+2020-01-03 19:26:25,365:INFO: Evaluating...
+2020-01-03 19:26:25,558:INFO: Average reward: 4.00 +/- 0.00
+2020-01-03 19:26:29,571:INFO: Evaluating...
+2020-01-03 19:26:29,769:INFO: Average reward: 4.10 +/- 0.00
+2020-01-03 19:26:33,271:INFO: Evaluating...
+2020-01-03 19:26:33,490:INFO: Average reward: 4.10 +/- 0.00
+2020-01-03 19:26:35,176:INFO: - Training done.
+2020-01-03 19:26:35,433:INFO: Evaluating...
+2020-01-03 19:26:35,620:INFO: Average reward: 4.10 +/- 0.00

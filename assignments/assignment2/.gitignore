@@ -1,1 +1,5 @@
-/results
+__pycache__
+.vscode
+*tfevents*
+model.weights
+monitor
