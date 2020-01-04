@@ -1,5 +1,4 @@
 import tensorflow as tf
-import tensorflow.contrib.layers as layers
 
 from utils.general import get_logger
 from utils.test_env import EnvTest

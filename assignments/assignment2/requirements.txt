@@ -1,5 +1,5 @@
-gym[atari]
 gym==0.12.5
+gym[atari]
 matplotlib==2.0.2
 six==1.13.0
 tensorflow==1.15.*

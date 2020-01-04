@@ -58,17 +58,17 @@ class NatureQN(Linear):
                     'kernel_size': [8,8],
                     'strides': [4,4],
                     'activation': 'relu',
-                    'padding': 'valid'}
+                    'padding': 'same'}
     conv2_config = {'filters': 64,
                     'kernel_size': [4,4],
                     'strides': [2,2],
                     'activation': 'relu',
-                    'padding': 'valid'}
+                    'padding': 'same'}
     conv3_config = {'filters': 64,
                     'kernel_size': [3,3],
                     'strides': [1,1],
                     'activation': 'relu',
-                    'padding': 'valid'}
+                    'padding': 'same'}
     hidden_units = 512
     with tf.variable_scope(scope, reuse=reuse):
       conv1 = tf.keras.layers.Conv2D(**conv1_config) (state)
