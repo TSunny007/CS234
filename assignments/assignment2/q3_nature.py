@@ -54,9 +54,29 @@ class NatureQN(Linear):
     """
     ##############################################################
     ################ YOUR CODE HERE - 10-15 lines ################ 
-
-    pass
-
+    conv1_config = {'filters': 32,
+                    'kernel_size': [8,8],
+                    'strides': [4,4],
+                    'activation': 'relu',
+                    'padding': 'valid'}
+    conv2_config = {'filters': 64,
+                    'kernel_size': [4,4],
+                    'strides': [2,2],
+                    'activation': 'relu',
+                    'padding': 'valid'}
+    conv3_config = {'filters': 64,
+                    'kernel_size': [3,3],
+                    'strides': [1,1],
+                    'activation': 'relu',
+                    'padding': 'valid'}
+    hidden_units = 512
+    with tf.variable_scope(scope, reuse=reuse):
+      conv1 = tf.keras.layers.Conv2D(**conv1_config) (state)
+      conv2 = tf.keras.layers.Conv2D(**conv2_config) (conv1)
+      conv3 = tf.keras.layers.Conv2D(**conv3_config) (conv2)
+      flattened = tf.keras.layers.Flatten() (conv3)
+      hidden = tf.keras.layers.Dense(hidden_units, activation='relu') (flattened)
+      out = tf.keras.layers.Dense(num_actions) (hidden)
     ##############################################################
     ######################## END YOUR CODE #######################
     return out
